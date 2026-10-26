@@ -1,0 +1,6 @@
+youtube-transcript-api
+faiss-cpu
+langchain
+langchain-community
+langchain-openai
+gradio
