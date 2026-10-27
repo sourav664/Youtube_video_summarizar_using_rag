@@ -204,3 +204,6 @@ Example questions to try:
 
 Hi there! I'm **Sourav Raj**, a **Data Enthusiast** who loves exploring data, building practical solutions, and making working with data enjoyable and engaging!
 
+Feel free to connect on LinkedIn or explore my other projects.
+
+🔗 LinkedIn: https://www.linkedin.com/in/sourav664
