@@ -169,7 +169,10 @@ def generate_answer(question, faiss_index, qa_chain, k=7):
     relevant_context = retrieve(question, faiss_index, k=k)
  
     # Generate answer using the QA chain
-    answer = qa_chain.invoke(context=relevant_context, question=question)
+    answer = qa_chain.invoke({
+                                "context": relevant_context,
+                                "question": question
+                            })
  
     return answer
  
